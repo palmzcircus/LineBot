@@ -8,3 +8,5 @@ six==1.10.0
 urllib3==1.21.1
 Werkzeug==0.12.2
 chatterbot==0.8.7
+database == db.sqlite3
+test == test.txt
