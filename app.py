@@ -44,7 +44,7 @@ def bot():
 
     replyQueue.append(text)
     replyQueue.append("okay")
-    replyQueue.append((open("test.txt","r").readlines(0))[0])
+    #replyQueue.append((open("test.txt","r").readlines(0))[0])
     #MyBot = ChatBot("Pink Bot",
                     #storage_adapter='chatterbot.storage.SQLStorageAdapter',
                     #database='db.sqlite3',
